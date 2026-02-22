@@ -63,7 +63,7 @@ body {
     display: grid;
     place-items: center;
     padding: 60px 16px;
-    background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("../images/beach.png");
+    background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("../images/beach.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
